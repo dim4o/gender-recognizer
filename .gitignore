@@ -1,0 +1,12 @@
+/machine-learning
+genders_data*
+/.ipynb_checkpoints/
+/faces_data/original_data/lfw_funneled/
+/faces_data/new_data/
+/faces_data/*.jpg
+/faces_data/*.jpeg
+/faces_data/*.JPG
+/faces_data/*.png
+
+# exception to the rule
+!/faces_data/new_data/.gitkeep
