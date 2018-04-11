@@ -7,6 +7,10 @@ genders_data*
 /faces_data/*.jpeg
 /faces_data/*.JPG
 /faces_data/*.png
+*.bak
+*.test
+*_test
+test_*
 Log_*
 
 # exception to the rule
