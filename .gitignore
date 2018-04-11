@@ -7,6 +7,7 @@ genders_data*
 /faces_data/*.jpeg
 /faces_data/*.JPG
 /faces_data/*.png
+Log_*
 
 # exception to the rule
 !/faces_data/new_data/.gitkeep
